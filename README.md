@@ -1,4 +1,4 @@
-# Horiseon Code Refractor
+# Horiseon Code Refactor
 
 
 ## Description
@@ -25,6 +25,6 @@ Please refer to the LICENSE in the repo.
 
 ## Links
 
-Deployed Application: 
+Deployed Application: https://anjaliroland.github.io/M1-HTML-CodeRefractor/
 
 Repository: https://github.com/anjaliroland/M1-HTML-CodeRefractor
