@@ -1,14 +1,9 @@
-# M1 HTML CodeRefractor
+# Horiseon Code Refractor
 
-<!--COMMENT OF README OUTLINE-
+
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+For this module challenge we were tasked with going over already created code and refactoring it, so that it is more accessible and follows best practices.
 
 ### User Story
 
@@ -20,7 +15,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The image below is a screenshot of the deployed application.
 
 ![screenshot](./assets/images/screenshot.png)
 
@@ -32,4 +27,4 @@ Please refer to the LICENSE in the repo.
 
 Deployed Application: 
 
-Repository: 
+Repository: https://github.com/anjaliroland/M1-HTML-CodeRefractor
