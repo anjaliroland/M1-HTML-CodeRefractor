@@ -1,10 +1,11 @@
-/* global styling*/
+/* universal styling*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* element styling */
 body {
     background-color: #d9dcd6;
 }
@@ -18,8 +19,6 @@ p {
     font-size: 16px;
 }
 
-
-/* element styling */
 
 /*header & nav styling*/
 header {
